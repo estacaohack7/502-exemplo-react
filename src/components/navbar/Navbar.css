@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+nav a{
+    font-size: 20pt;
+    text-decoration: none;
+}
