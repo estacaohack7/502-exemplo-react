@@ -7,7 +7,7 @@ class Header extends Component {
     return (
         <header>
             <h1>Faça seu login agora mesmo!</h1>
-            <Navbar />
+            <Navbar links={['SnapChat', 'MySpace', 'Fotolog']}/>
         </header>
     );
   }
